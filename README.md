@@ -1,7 +1,8 @@
 <div align="left">
-  **Hi there 👋**
+### Hi there 👋
 </div>
-<div align="right">.
+ <div style="float" align="right">
+   .
 </div>
 
 <!--
