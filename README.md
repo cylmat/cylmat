@@ -1,5 +1,8 @@
-[H](https://www.hackerrank.com)
-[i](https://www.vimgolf.com) there 👋
+<h1>
+  <a href="https://www.hackerrank.com" style="text-decoration: none">H</a>
+  <a href="https://www.vimgolf.com" style="text-decoration: none">i</a>
+  there 👋
+</h1>
 
 <!--
 **cylmat/cylmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
