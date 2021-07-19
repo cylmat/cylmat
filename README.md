@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="right">
-  <a href="https://www.code.golf" target="_blank">:golf:</a><br/>
-  <a href="https://www.root-me.org" target="_blank">:skull:</a><br/>
-  <a href="https://www.vimgolf.com/" target="_blank">:alien:</a>
+  <a href="https://www.code.golf">:golf:</a><br/>
+  <a href="https://www.geeksforgeeks.org/fundamentals-of-algorithms">:sweat_drops:</a><br/>
+  <a href="https://www.root-me.org">:busts_in_silhouette:</a><br/>
+  <a href="https://www.vimgolf.com/">:alien:</a>
 </div>
