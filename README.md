@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div style="float" align="right">
-[:skull:](https://www.root-me.org)
+[R](https://www.root-me.org)
 </div>
