@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="right">
-[R](https://www.root-me.org)
+  <a href="https://www.root-me.org">:skull:</a>
 </div>
