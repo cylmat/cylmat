@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="float" align="right">
+<div align="right">
 [R](https://www.root-me.org)
 </div>
