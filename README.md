@@ -1,4 +1,5 @@
-<a href="https://www.hackerrank.com" style="text-decoration: none">H</a><a href="https://www.vimgolf.com" style="text-decoration: none">i</a>
+<a href="https://www.hackerrank.com" style="color: white; text-decoration: none">H</a>
+<a href="https://www.vimgolf.com" style="color: white; text-decoration: none">i</a>
   there 👋
 
 <!--
