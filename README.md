@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="float:right">
-8
+<div style="text-align: right">
 </div>
