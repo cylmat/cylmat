@@ -1,4 +1,4 @@
-[H](https://www.hackerrank.com")[i](https://www.vimgolf.com) the[r](https://www.root-me.org)e [👋](https://symfony.com)
+[H](https://www.hackerrank.com")[i](https://www.vimgolf.com) [t](https://www.code.golf)[h](https://www.geeksforgeeks.org/fundamentals-of-algorithms)e[r](https://www.root-me.org)e [👋](https://symfony.com)
 
 <!--
 **cylmat/cylmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align="right">
-  <a href="https://www.code.golf">🏌️</a>
-  <a href="https://www.geeksforgeeks.org/fundamentals-of-algorithms">💦</a>
-  <a href="https://www.vimgolf.com/">👽</a>
-</div>
