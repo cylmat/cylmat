@@ -1,4 +1,8 @@
-**Hi there 👋**
+<div align="left">
+  **Hi there 👋**
+</div>
+<div align="right">.
+</div>
 
 <!--
 **cylmat/cylmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="right">.
-</div>
+
