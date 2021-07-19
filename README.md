@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="right">
+  <a href="https://www.code.golf" target="_blank">:golf:</a><br/>
   <a href="https://www.root-me.org" target="_blank">:skull:</a><br/>
-  <a href="https://www.vimgolf.com/" target="_blank">:golf:</a>
+  <a href="https://www.vimgolf.com/" target="_blank">:alien:</a>
 </div>
