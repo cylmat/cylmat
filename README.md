@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **cylmat/cylmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <div align="right">
   <a href="https://www.code.golf">:golf:</a><br/>
   <a href="https://www.geeksforgeeks.org/fundamentals-of-algorithms">:sweat_drops:</a><br/>
