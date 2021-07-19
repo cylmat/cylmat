@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="right">
-  <a href="https://www.root-me.org">:skull:</a>
+  <a href="https://www.root-me.org" target="_blank">:skull:</a>
 </div>
