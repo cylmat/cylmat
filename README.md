@@ -1,5 +1,5 @@
-[H](https://www.hackerrank.com")
-[i](https://www.vimgolf.com) 
+[H](https://www.hackerrank.com)
+[i](https://www.vimgolf.com) -
 [t](https://www.code.golf)
 [h](https://www.geeksforgeeks.org/fundamentals-of-algorithms)
 [e](https://phptherightway.com/)
