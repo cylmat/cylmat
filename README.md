@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![https://img.shields.io/static/v1?label=php-pattern&message=pass&color=green]](https://github.com/cylmat/phpatterns)
+[![](https://img.shields.io/static/v1?label=php-pattern&message=pass&color=green)](https://github.com/cylmat/phpatterns)
