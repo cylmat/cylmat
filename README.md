@@ -30,4 +30,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![phpatterns](https://img.shields.io/static/v1?label=php-patterns&message=pass&color=green)](https://github.com/cylmat/phpatterns)
+[![phpatterns](https://github.com/cylmat/phpatterns/actions/workflows/master.yml/badge.svg)](https://github.com/cylmat/phpatterns)
+
+[![algorithms-ds](https://github.com/cylmat/algorithms-ds/actions/workflows/main.yml/badge.svg)](https://github.com/cylmat/algorithms-ds)
