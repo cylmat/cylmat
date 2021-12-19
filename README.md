@@ -5,7 +5,7 @@
 [e](https://phptherightway.com/)
 [r](https://www.root-me.org)
 [e](https://blog.cleancoder.com/) 
-[👋](https://symfony.com) Dev awesome:  
+[👋](https://symfony.com) Dev awesome: 
 [bash](https://github.com/awesome-lists/awesome-bash)
 [code](https://github.com/viatsko/awesome-vscode)
 [git](https://github.com/dictcp/awesome-git)&[git](https://project-awesome.org/stevemao/awesome-git-addons)
