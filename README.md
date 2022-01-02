@@ -11,7 +11,6 @@ Dev awesome:
 [bash](https://github.com/awesome-lists/awesome-bash)
 [code](https://github.com/viatsko/awesome-vscode)
 [git](https://github.com/dictcp/awesome-git)&[git](https://project-awesome.org/stevemao/awesome-git-addons)
-[linux](https://github.com/luong-komorebi/Awesome-Linux-Software)
 [php](https://github.com/ziadoz/awesome-php)
 [vim](https://github.com/akrawchyk/awesome-vim)&[vim](https://vimawesome.com/)
 <!--
