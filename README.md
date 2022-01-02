@@ -18,8 +18,13 @@ Dev awesome:
 **cylmat/cylmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 @todo list:
-- Tailogs
+- Partigen 80%
+- Tailogs 80%
 - GdImage
+- Curly
+- htYAml
+clean FluentStd
+rm -deployer-
 
 Here are some ideas to get you started:
 
