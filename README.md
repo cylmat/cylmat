@@ -23,7 +23,6 @@ Dev awesome:
 - Curly
 - htYAml
 clean FluentStd
-rm -deployer-
 
 Here are some ideas to get you started:
 
