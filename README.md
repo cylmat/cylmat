@@ -19,10 +19,8 @@ Dev awesome:
 @todo list:
 - Partigen 80%
 - Tailogs 80%
-- GdImage
-- Curly
+- Fluent (GdImage, Curly, Array...)
 - htYAml
-clean FluentStd
 
 Here are some ideas to get you started:
 
