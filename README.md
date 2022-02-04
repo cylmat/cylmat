@@ -8,7 +8,6 @@
 [👋](https://symfony.com)  
   
 Dev awesome: 
-[bash](https://github.com/awesome-lists/awesome-bash)
 [code](https://github.com/viatsko/awesome-vscode)
 [git](https://github.com/dictcp/awesome-git)&[git](https://project-awesome.org/stevemao/awesome-git-addons)
 [php](https://github.com/ziadoz/awesome-php)
