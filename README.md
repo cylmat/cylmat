@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 -->
 [![algorithms-ds](https://github.com/cylmat/algorithms-ds/actions/workflows/main.yml/badge.svg)](https://github.com/cylmat/algorithms-ds) [![phpatterns](https://github.com/cylmat/phpatterns/actions/workflows/master.yml/badge.svg)](https://github.com/cylmat/phpatterns)
 
-[https://github.com/cylmat/cheats] [https://github.com/cylmat/docs]
+[Cheats](https://github.com/cylmat/cheats) - [Docs](https://github.com/cylmat/docs)
