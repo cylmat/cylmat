@@ -20,6 +20,7 @@ Dev awesome:
 - Tailogs 80%
 - Fluent (GdImage, Curly, Array...)
 - htYAml
+- lucleroy/php-regex
 
 Here are some ideas to get you started:
 
