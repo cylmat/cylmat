@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 -->
 [Cheats](https://github.com/cylmat/cheats) - [Docs](https://github.com/cylmat/docs)
 
-[![algorithms-ds](https://github.com/cylmat/algorithms-ds/actions/workflows/main.yml/badge.svg)](https://github.com/cylmat/algorithms-ds) [![phpatterns](https://github.com/cylmat/phpatterns/actions/workflows/master.yml/badge.svg)](https://github.com/cylmat/phpatterns)
+[![algorithms-ds](https://github.com/cylmat/algorithms-ds/actions/workflows/main.yml/badge.svg)](https://github.com/cylmat/algorithms-ds) [![phpatterns](https://github.com/cylmat/phpatterns/actions/workflows/master.yml/badge.svg)](https://github.com/cylmat/phpatterns) [![partigen](https://github.com/cylmat/partigen/actions/workflows/main.yml/badge.svg)](https://github.com/cylmat/partigen)
