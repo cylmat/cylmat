@@ -16,10 +16,11 @@ Dev awesome:
 **cylmat/cylmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 @todo list:
-- Partigen 80%
 - Tailogs 80%
 - Fluent (GdImage, Curly, Array...)
 - htYAml
+
+Nice:
 - lucleroy/php-regex
 
 Here are some ideas to get you started:
