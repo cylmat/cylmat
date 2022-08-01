@@ -12,6 +12,11 @@ Dev awesome:
 [git](https://github.com/dictcp/awesome-git)&[git](https://project-awesome.org/stevemao/awesome-git-addons)
 [php](https://github.com/ziadoz/awesome-php)
 [vim](https://github.com/akrawchyk/awesome-vim)&[vim](https://vimawesome.com/)
+
+[Cheats](https://github.com/cylmat/cheats) - [Docs](https://github.com/cylmat/docs)
+
+[![algorithms-ds](https://github.com/cylmat/algorithms-ds/actions/workflows/main.yml/badge.svg)](https://github.com/cylmat/algorithms-ds) [![phpatterns](https://github.com/cylmat/phpatterns/actions/workflows/master.yml/badge.svg)](https://github.com/cylmat/phpatterns) [![partigen](https://github.com/cylmat/partigen/actions/workflows/main.yml/badge.svg)](https://github.com/cylmat/partigen)
+
 <!--
 **cylmat/cylmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,9 +24,15 @@ Dev awesome:
 - Tailogs 80%
 - Fluent (GdImage, Curly, Array...)
 - htYAml
++ Symplay: Youtube streaming like
 
 Nice:
 - lucleroy/php-regex
+
+Project samples:
+- news pages, fdj loto, gmail, zeromq, Changelog from git, Votefg, Facebook, Bred, Bourse, Excel, Google, Itunes
+- File explorer, bit.ly (short url), redmine, Résa cours tennis , Vente aux enchères, Whatsapp, Wikipedia, Gestion contrat edf, réseau neuronale
+- Reverse proxy, Reverse cache, Server async, Key-value provider memory, evernote-like, noeud réplicables (type Elasic) rsync child process
 
 Here are some ideas to get you started:
 
@@ -34,6 +45,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Cheats](https://github.com/cylmat/cheats) - [Docs](https://github.com/cylmat/docs)
-
-[![algorithms-ds](https://github.com/cylmat/algorithms-ds/actions/workflows/main.yml/badge.svg)](https://github.com/cylmat/algorithms-ds) [![phpatterns](https://github.com/cylmat/phpatterns/actions/workflows/master.yml/badge.svg)](https://github.com/cylmat/phpatterns) [![partigen](https://github.com/cylmat/partigen/actions/workflows/main.yml/badge.svg)](https://github.com/cylmat/partigen)
