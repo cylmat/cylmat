@@ -15,7 +15,7 @@ Dev awesome:
 
 [Cheats](https://github.com/cylmat/cheats) - [Docs](https://github.com/cylmat/docs)
 
-[![algorithms-ds](https://github.com/cylmat/algorithms-ds/actions/workflows/main.yml/badge.svg)](https://github.com/cylmat/algorithms-ds) [![phpatterns](https://github.com/cylmat/phpatterns/actions/workflows/master.yml/badge.svg)](https://github.com/cylmat/phpatterns) [![partigen](https://github.com/cylmat/partigen/actions/workflows/main.yml/badge.svg)](https://github.com/cylmat/partigen)
+[![algorithms-ds](https://github.com/cylmat/algorithms-ds/actions/workflows/main.yml/badge.svg)](https://github.com/cylmat/algorithms-ds) [![phpatterns](https://github.com/cylmat/phpatterns/actions/workflows/master.yml/badge.svg)](https://github.com/cylmat/phpatterns)
 
 <!--
 **cylmat/cylmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
