@@ -11,8 +11,8 @@ Dev awesome:
 [code](https://github.com/viatsko/awesome-vscode)
 [git](https://github.com/dictcp/awesome-git)&[git](https://project-awesome.org/stevemao/awesome-git-addons)
 [php](https://github.com/ziadoz/awesome-php)
-[vim](https://github.com/akrawchyk/awesome-vim)&[vim](https://vimawesome.com/) . 
-[Cheats](https://github.com/cylmat/cheats) - [Docs](https://github.com/cylmat/docs)
+[vim](https://github.com/akrawchyk/awesome-vim)&[vim](https://vimawesome.com/) / 
+[Cheats](https://github.com/cylmat/cheats) [Docs](https://github.com/cylmat/docs)
 
 [![algorithms-ds](https://github.com/cylmat/algorithms-ds/actions/workflows/main.yml/badge.svg)](https://github.com/cylmat/algorithms-ds) [![phpatterns](https://github.com/cylmat/phpatterns/actions/workflows/master.yml/badge.svg)](https://github.com/cylmat/phpatterns) [![symfony](https://github.com/cylmat/symplay/actions/workflows/main.yml/badge.svg)](https://github.com/cylmat/symplay)
 
