@@ -1,32 +1,9 @@
-[H](https://www.hackerrank.com)
-[i](https://www.vimgolf.com) -
-[t](https://www.code.golf)
-[h](https://www.geeksforgeeks.org/fundamentals-of-algorithms)
-[e](https://phptherightway.com/)
-[r](https://www.root-me.org)
-[e](https://blog.cleancoder.com/) 
-[👋](https://symfony.com)  
-  
-Dev awesome: 
-[code](https://github.com/viatsko/awesome-vscode)
-[git](https://github.com/dictcp/awesome-git)&[git](https://project-awesome.org/stevemao/awesome-git-addons)
-[php](https://github.com/ziadoz/awesome-php)
-[vim](https://github.com/akrawchyk/awesome-vim)&[vim](https://vimawesome.com/) / 
-[Cheats](https://github.com/cylmat/cheats) - [IO](https://github.com/cylmat/cylmat.github.io) - [DOCS](https://github.com/cylmat/docs)
+👋 [Cheats](https://github.com/cylmat/cheats) - [IO](https://github.com/cylmat/cylmat.github.io) - [DOCS](https://github.com/cylmat/docs)
 
 [![algorithms-ds](https://github.com/cylmat/algorithms-ds/actions/workflows/main.yml/badge.svg)](https://github.com/cylmat/algorithms-ds) [![phpatterns](https://github.com/cylmat/phpatterns/actions/workflows/master.yml/badge.svg)](https://github.com/cylmat/phpatterns) [![symfony](https://github.com/cylmat/symplay/actions/workflows/main.yml/badge.svg)](https://github.com/cylmat/symplay)
 
 <!--
 **cylmat/cylmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-@todo list:
-- Tailogs 80%
-- Fluent (GdImage, Curly, Array...)
-- htYAml
-+ Symplay: Youtube streaming like
-
-Nice:
-- lucleroy/php-regex
 
 Project samples:
 - own language (token) and protocol
