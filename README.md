@@ -5,14 +5,6 @@
 <!--
 **cylmat/cylmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Project samples:
-- own language (token) and protocol
-- let's encrypt, openio.io, min.io, openswift, openstack, traefik, messageoriented middleware 
-
-- news pages, fdj loto, gmail, zeromq, Changelog from git, Votefg, Facebook, Bred, Bourse, Excel, Google, Itunes
-- File explorer, bit.ly (short url), redmine, Résa cours tennis , Vente aux enchères, Whatsapp, Wikipedia, Gestion contrat edf, réseau neuronale
-- Reverse proxy, Reverse cache, Server async, Key-value provider memory, evernote-like, noeud réplicables (type Elasic) rsync child process
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
