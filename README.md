@@ -1,4 +1,4 @@
-[IO](https://github.com/cylmat/cylmat.github.io) - [Cheats](https://github.com/cylmat/cheats) - [Docs](https://github.com/cylmat/docs)  |  
+[IO](https://github.com/cylmat/cylmat.github.io) - [Cheats](https://github.com/cylmat/cheats) - [Docs](https://github.com/cylmat/docs) | 
 [algorithms-ds](https://github.com/cylmat/algorithms-ds) - [phpatterns](https://github.com/cylmat/phpatterns) - [symplay](https://github.com/cylmat/symplay)
 
 <!--
