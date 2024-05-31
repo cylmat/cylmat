@@ -1,6 +1,8 @@
 [IO](https://github.com/cylmat/cylmat.github.io) - [Cheats](https://github.com/cylmat/cheats) - [Docs](https://github.com/cylmat/docs)
 
-[algorithms-ds](https://github.com/cylmat/algorithms-ds) - [phpatterns](https://github.com/cylmat/phpatterns) - [symplay](https://github.com/cylmat/symplay)
+[algorithms-ds](https://github.com/cylmat/algorithms-ds) - [phpatterns](https://github.com/cylmat/phpatterns) - [symplay](https://github.com/cylmat/symplay)  
+
+Page: [Useful](https://cylmat.github.io/useful) - [News](https://github.com/cylmat/cylmat.github.io/blob/main/_pages/news.md)
 
 <!--
 **cylmat/cylmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
