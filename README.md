@@ -1,6 +1,6 @@
 [IO](https://github.com/cylmat/cylmat.github.io) - [Cheats](https://github.com/cylmat/cheats) - [Docs](https://github.com/cylmat/docs)
 
-[algorithms-ds](https://github.com/cylmat/algorithms-ds) - [phpatterns](https://github.com/cylmat/phpatterns) - [db-play](https://github.com/cylmat/db-play) - [symplay](https://github.com/cylmat/symplay)  
+[algorithms-ds](https://github.com/cylmat/algorithms-ds) - [phpatterns](https://github.com/cylmat/phpatterns) - [symplay](https://github.com/cylmat/symplay)  
 
 Page: [Useful](https://cylmat.github.io/useful) - [News](https://cylmat.github.io/news)
 
